@@ -14,4 +14,4 @@ future plan :
 
 
 ## live demo 
-    - a demo of the above is here : https://jeevanism.com/buddhawords/
+- a demo of the above is here : https://jeevanism.com/buddhawords/
