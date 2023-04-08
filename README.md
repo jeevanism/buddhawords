@@ -11,3 +11,7 @@ a simple es6 vanilla Javascript app to display random quotes from buddha. The ap
 
 future plan :
     - add a counter to display a timer clock and change the quotes 
+
+
+## live demo 
+    - a demo of the above is here : https://jeevanism.com/buddhawords/
